@@ -1,4 +1,4 @@
-# CSE470-Project
+# Thik Achi
                                                                                                                                      Scenario
 Meet Kader, a 30-year-old office worker who has recently realized the importance of taking control of his health. Kader leads a sedentary lifestyle and is concerned about his increasing weight and lack of physical activity. Eager to make positive changes, he decides to try out “Thik achi”s website to achieve his health and fitness goals.
 Day 1: Initial stage

@@ -95,6 +95,11 @@ Economic Feasibility: With people’s growing interest in healthcare and fitness
 
 Schedule Feasibility: With our group, we can easily construct the system. It might take some time, though, because the MERN stack is a little exacting. In order to stay up with the sprints and complete constructing our system before our deadline, we are starting as early as possible.
 
+Specifications - 
+MERN stack 
+OpenAI
+
+
 
 
 
